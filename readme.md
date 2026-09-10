@@ -1,4 +1,5 @@
-# The Mechanism Is Not Accidental—It Is Enforced: A Structural Analysis of Class Reproduction in the Dutch Student Finance and Housing System
+# A Structural Analysis of Class Reproduction in the Dutch Student Finance and Housing System
+## The Mechanism Is Not Accidental—It Is Enforced
 
 **Abstract**
 
