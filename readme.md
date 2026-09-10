@@ -2,7 +2,7 @@
 
 **Abstract**
 
-This paper examines the proposition that the Dutch state operates a system of enforcement that is not accidental but structurally designed to reward certain classes while excluding others. The analysis emerges from a first-person account of navigating the Dutch education and housing system, and it tests that account against documented evidence of state practices. The paper argues that the mechanism of enforcement operates through three interconnected instruments: (1) discriminatory algorithmic profiling by state agencies, (2) punitive welfare fraud legislation that criminalises administrative error, and (3) a moral hierarchy rooted in Calvinist notions of chosenness that legitimises the exclusion of outsiders while protecting the established class. To illustrate the structural asymmetry, the paper contrasts three student living scenarios: (a) living with lower-class parents, (b) living independently on DUO with €900 rent, and (c) living in a home purchased by wealthy parents who rent rooms to other students, generating 3–4 times the student room income as additional monthly income for their child.
+This paper examines the proposition that the Dutch state operates a system of enforcement that is not accidental but designed — not as a single blueprint, but as dynamic legislation and policy brought forth from doctrine — to reward certain classes while excluding others. The analysis emerges from a first-person account of navigating the Dutch education and housing system, and it tests that account against documented evidence of state practices. The paper argues that the mechanism of enforcement operates through three interconnected instruments: (1) discriminatory algorithmic profiling by state agencies, (2) punitive welfare fraud legislation that criminalises administrative error, and (3) a moral hierarchy rooted in Calvinist notions of chosenness that legitimises the exclusion of outsiders while protecting the established class. To illustrate the structural asymmetry, the paper contrasts three student living scenarios: (a) living with lower-class parents, (b) living independently on DUO with €900 rent, and (c) living in a home purchased by wealthy parents who rent rooms to other students, generating 3–4 times the student room income as additional monthly income for their child.
 
 **The central argument of this paper concerns the "average rent." The average rent is not a market price. It is a network price. It describes the rent paid by students who have gained access to the fraternity (*studentenvereniging*) allocation system—a system gated by social compliance rather than money. The documented forms of that compliance include *ontgroening* (hazing: forced alcohol consumption, physical exhaustion, humiliation, degradation); sexual ranking and coercion, documented in the *bangalijst* scandals at Amsterdam, Utrecht, and Groningen; and participation in the informal economies of fraternity houses, including documented drug use and distribution. The ordinary member may pay only in hazing and social conformity, but the continuum of compliance runs to these documented extremes. A student who declines to pay this non-monetary entry fee is not offered the average rent. They are offered the open market rent, which in Amsterdam exceeds €950 and which constitutes the top quintile of the distribution. The statistics that report an "average" therefore describe a subsidised price available only to those inside the network, while concealing the penalty paid by those outside it.**
 
@@ -17,6 +17,8 @@ The preceding conversation established a structural argument: the Netherlands op
 The question is not whether individual Dutch people are honest or fraudulent. The question is whether the system—the laws, algorithms, enforcement practices, housing allocation mechanisms, and cultural narratives—produces predictable outcomes that favour certain groups and disadvantage others. The evidence suggests that it does. The consequence is the effective exclusion of students who lack parental support in the form of housing, and who lack access to the social networks that gate the affordable segment of the housing market.
 
 The distinction between "failing to help" and "designed to exclude" is analytically important. A system that fails to help is negligent. A system whose every instrument—grant structure, housing market regulation, fraud enforcement, network-based allocation, labour market access, and moral narrative—converges on the same outcome is functioning as designed. This paper argues that the Dutch student system is the latter.
+
+The design is not a single blueprint. It is dynamic legislation and policy brought forth from a doctrine that specifies who belongs and who does not. The doctrine is the Calvinist inheritance that distinguishes the elect from the reprobate, the tested from the failed, the insider from the outsider. The legislation and policy are its expressions. The exclusion is their function.
 
 ---
 
@@ -144,7 +146,109 @@ A student without family capital has no third option. They have loans (which acc
 
 ---
 
-## 4. Three Students, One System: A Controlled Comparison
+## 4. The Chain of Beneficiaries: The Fraternity System as a Mechanism of Class Reproduction
+
+The fraternity system is not a social club that happens to own property. It is a property-holding corporation that happens to have social functions. Its assets are real estate. Its members are the children of property owners. Its function is to ensure that property remains within the network.
+
+### 4.1 The Direct Beneficiaries: The Landowning Class and Its Heirs
+
+The mechanism is straightforward. A parent with capital buys a property in a student city for €400,000–€600,000. The child occupies one bedroom. The remaining four rooms are rented to other students at €650–€800 per month. Gross rental income is €2,600–€3,200 per month. The mortgage is covered. The property appreciates. By graduation, the family owns an appreciating asset financed by the rents of other students. The child pays zero rent and graduates with equity. The students who paid the mortgage graduate with debt.
+
+This is not a marginal phenomenon. It is the primary mechanism through which student housing is provided in the Netherlands. The state does not build enough student housing. Social housing waitlists run years. The private market fills the gap. And the private market is capital-gated: only those with capital can enter as suppliers. The parents of fraternity members are disproportionately those with capital.
+
+The fraternities defend this system as "culture." The LKvV, the national fraternity umbrella, sent an urgent letter to DUWO fighting to retain the *hospiteren* system. They frame their opposition as a defense of "Dutch student culture" and "social cohesion." But what they are defending is property. The culture is the alibi. The property is the interest.
+
+The rich kid in the fraternity is not a victim of the hazing. He is a beneficiary of it. The hazing is the price of admission to the network. The network is the mechanism through which property is protected. The property is the wealth. The wealth is the power. The hazing is the ritual through which the class reproduces itself.
+
+### 4.2 The Land Value They Prop Up
+
+The presence of fraternity-owned and parent-owned properties in student cities props up land values. When wealthy parents buy properties for their children, they increase demand. When demand increases, prices rise. When prices rise, the average rent rises. When the average rent rises, students without family capital are priced out.
+
+The fraternities are not passive beneficiaries of this process. They are active participants. They buy properties. They renovate them. They rent them to members. They maintain the network that keeps the properties within the class. They set the standard for what student housing looks like — and the standard is high, because the standard is set by people with capital.
+
+The statistics then report an "average rent" that is pulled down by the fraternity-controlled segment of the market. The average is not the price that non-members pay. It is the price that members pay — and members pay less because they are subsidized by the network. The non-member pays the residual price. The residual price is higher. The statistics conceal this. The student who pays €900 is told they are paying an above-average rent because they failed to secure a better deal. The truth is they were never offered the better deal. The better deal is not a deal. It is a membership benefit. And the membership fee is paid in compliance.
+
+### 4.3 The Indirect Beneficiaries: The Average Students Who Get Average Rooms
+
+The average room is not available to everyone. It is available to students who have some access to the network — not necessarily the top fraternities, but some network. They may be members of a smaller association. They may have friends who are members. They may have parents who know someone. They may have been in the right place at the right time.
+
+These students are not the rich kids. They do not own property. They do not have a *kruiwagen* that will carry them into the labour market. But they have enough access to get a room at the average price. They are the system's middle layer. They are not the beneficiaries of the system in the way the rich kids are. But they are beneficiaries relative to those who are excluded.
+
+Their complicity takes three forms.
+
+**First, they participate in the compliance continuum.** The compliance continuum runs from hazing to sexual ranking to informal economies. The average student may not participate in the extremes. But they participate in the routine. They attend the parties. They laugh at the jokes. They keep silent about the things that happen in the house. They do not challenge the system because the system is giving them a room.
+
+**Second, they maintain the silence.** The system depends on silence. The aspirant who reports is a traitor. The member who speaks out is a problem. The average student knows this. They may not like the system. They may not agree with the hazing. But they do not speak. They do not report. They do not organize. They accept the room and the silence that comes with it.
+
+**Third, they blame the excluded.** The average student who gets a room may look at the student who does not and think: "They didn't try hard enough." "They didn't network." "They didn't apply in time." The average student does not see that the system is designed to exclude. They see individual failure. They see the excluded student's failure to secure a room as the excluded student's problem. This is the moral hierarchy's final instrument: it makes the included complicit in the exclusion by convincing them that the exclusion is deserved.
+
+The average student can deny their complicity. They can say they were not responsible for the system. They can say they just found a room. They can say they did not design the *hospiteren* system. They can say they did not buy the property. They can say they are not the rich kid. All of this is true. But it is also irrelevant. The system does not need the average student to design it. It needs the average student to accept it. It needs the average student to take the room, keep silent, and blame the excluded. The average student's deniability is the system's oxygen.
+
+### 4.4 The Chain of Deniability
+
+The chain of deniability runs through every actor in the system.
+
+The **landlord** says: "I just rent rooms. The market sets the price."
+
+The **fraternity** says: "We just have traditions. We are a social club."
+
+The **rich kid** says: "My parents just helped me. I worked hard too."
+
+The **average student** says: "I just found a room. I didn't design the system."
+
+The **board** says: "We just set the framework. The members run the activities."
+
+The ***ouderejaars*** says: "I just followed tradition. I was hazed too."
+
+The **university** says: "We just provide education. Student life is not our responsibility."
+
+The **municipality** says: "We just enforce the law. We cannot intervene in private housing."
+
+The **state** says: "We just provide grants and loans. The market provides housing."
+
+Everyone is involved. No one is guilty. This is the tragic comedy. The excluded student is not excluded by any single actor. They are excluded by the system that every actor maintains while denying responsibility for it.
+
+### 4.5 The Doctrine in Operation
+
+The main paper argues that the Dutch system is designed to exclude by functioning as dynamic legislation and policy brought forth from doctrine. The doctrine is the Calvinist inheritance that distinguishes the elect from the reprobate, the tested from the failed, the insider from the outsider.
+
+The fraternity system is the doctrine in operation. It is the mechanism through which the doctrine is enacted, enforced, and reproduced.
+
+The **elect** are the fraternity members and their families. They have purchased their authority through the compliance continuum. They have inherited the network. They own the property. They set the standard. They control access. They are the insiders. The doctrine says: authority must be purchased. The elect have purchased it.
+
+The **reprobate** are the excluded students. They have not purchased authority. They do not have the network. They do not own property. They pay the non-network price. They are the outsiders. The doctrine says: those who have not purchased are illegitimate. The reprobate have not purchased. They are illegitimate.
+
+The **average student** who gets an average room is the borderline case. They have some access. They have paid some price. They are not fully elect, but they are not fully reprobate. The system needs them to be complicit. The system needs them to accept the room, keep silent, and blame the excluded. The system needs them to believe that they earned their place, even though their place is relative to those who are excluded.
+
+The average student's complicity is the system's most important resource. The rich kids can reproduce the system because they have the capital. The fraternities can gate the system because they have the network. But the system can only function if the average student — the student who is neither rich nor excluded — accepts the terms. The average student's acceptance is the system's legitimacy.
+
+### 4.6 The Chain of Beneficiaries
+
+The chain of complicity is not a metaphor. It is a mechanism. Each actor in the chain benefits from the system in some way. Each actor denies responsibility. Each actor points to another. The chain holds because every link holds.
+
+The **landlord** profits from the rent.
+
+The **fraternity** profits from the network.
+
+The **rich kid** profits from the property.
+
+The **average student** profits from the room.
+
+The **board** profits from the status.
+
+The ***ouderejaars*** profits from the credential.
+
+The **university** profits from the enrollment.
+
+The **municipality** profits from the tax base.
+
+The **state** profits from the loan interest.
+
+The system is not a failure. It is a success. It is producing exactly what it is designed to produce: the reproduction of a class that purchases its authority and excludes those who cannot. The comedy is the system's self-description. The paper's job is to show how the comedy works — and who it serves.
+
+---
+
+## 5. Three Students, One System: A Controlled Comparison
 
 To isolate the variable that determines a student's outcome in the Netherlands, hold everything constant except family wealth. The same city, the same university, the same programme, the same intelligence, the same work ethic, the same age, the same nationality. The only difference is what the parents own.
 
@@ -160,7 +264,7 @@ To isolate the variable that determines a student's outcome in the Netherlands, 
 
 This is the entire experiment. Everything that follows is arithmetic.
 
-### 4.1 The Baseline: What DUO Provides
+### 5.1 The Baseline: What DUO Provides
 
 Before the scenarios, establish what the state gives. DUO grant amounts for 2025:
 
@@ -178,7 +282,7 @@ The supplementary grant depends on **parental income from two years prior**. It 
 
 That €188.01 is the state's entire compensation for the cost of moving out.
 
-### 4.2 Student A — Lives With Parents, Low Income
+### 5.2 Student A — Lives With Parents, Low Income
 
 **Income:**
 - Basic grant (thuiswonend): €125.99
@@ -196,7 +300,7 @@ That €188.01 is the state's entire compensation for the cost of moving out.
 
 **The hidden constraint:** Student A is dependent on parents who are themselves poor. If the parents need financial help, Student A is expected to provide it. If the household is unstable, Student A has no escape. Student A's stability is contingent on a family situation they did not choose.
 
-### 4.3 Student B — Lives Independently, €900 Rent, No Family Support, No Network Access
+### 5.3 Student B — Lives Independently, €900 Rent, No Family Support, No Network Access
 
 **Income:**
 - Basic grant (uitwonend): €314.00
@@ -250,7 +354,7 @@ Student B is not "living on a budget." Student B is **funding a deficit**. Every
 
 **Critically, Student B's rent is not the average rent.** It is the **non-network price**—the price a student pays when they are excluded from the fraternity-controlled segment of the market. The €900 figure is a conservative estimate; in Amsterdam, the non-network price regularly exceeds €950, and the highest 20% of rents are higher still. Student B is not an average case. They are a **forced high-price case**.
 
-### 4.4 Student C — Parents Purchase a House, Student Rents the Rooms
+### 5.4 Student C — Parents Purchase a House, Student Rents the Rooms
 
 **The setup:** Student C's parents buy a five-bedroom house in a student city for **€400,000–€600,000**. Student C occupies one bedroom. The other four are rented to fellow students at market rate.
 
@@ -302,7 +406,7 @@ Student B is not "living on a budget." Student B is **funding a deficit**. Every
 
 **The compounding:** The house appreciates. The rent covers the mortgage. The equity belongs to the family. By graduation, Student C's family may have gained tens of thousands in equity while Student B has accumulated tens of thousands in debt. The gap is not static. It widens every month.
 
-### 4.5 Side by Side
+### 5.5 Side by Side
 
 | | **Student A** | **Student B** | **Student C** |
 |---|---|---|---|
@@ -317,7 +421,7 @@ Student B is not "living on a budget." Student B is **funding a deficit**. Every
 | **Upwards mobility** | **None** | **None — and actively prevented** | **High** |
 | **Source of wealth** | Parents' home (consumed) | None | Parents' capital (compounding) |
 
-### 4.6 The Transfer Mechanism
+### 5.6 The Transfer Mechanism
 
 The three scenarios are not separate. They are connected by a flow of money.
 
@@ -334,9 +438,9 @@ The result:
 - Student B's debt becomes the interest income of a bank, and their rent becomes the equity of Student C's family.
 - Student B graduates with a negative net worth. Student C graduates with a positive one.
 
-**The gap is not an accident of individual circumstance. It is the designed output of the system.**
+**The gap is not an accident of individual circumstance. It is the designed output of a system whose legislation and policy are brought forth from doctrine.**
 
-### 4.7 Conclusion of the Comparison
+### 5.7 Conclusion of the Comparison
 
 The three students are identical in every respect except family capital and network access. The system produces three outcomes:
 
@@ -346,15 +450,15 @@ The three students are identical in every respect except family capital and netw
 
 The variable that determines which outcome a student receives is **not effort, intelligence, or merit**. It is whether their parents own property, and whether they inherit access to the network that gates the affordable segment of the housing market.
 
-**There is no upwards mobility for the student without parental support and without network access. The student is not failed by the system. The student is excluded by it. It is the system functioning as designed to exclude those without family capital or social compliance.**
+**There is no upwards mobility for the student without parental support and without network access. The student is not failed by the system. The student is excluded by it — not by a single designer, but by legislation and policy brought forth from a doctrine that specifies who belongs. It is the system functioning as designed to exclude those without family capital or social compliance.**
 
 ---
 
-## 5. The Statistical Skew: How the Independent Student Category Conceals the Crisis
+## 6. The Statistical Skew: How the Independent Student Category Conceals the Crisis
 
 The Dutch student housing debate relies on a headline figure: approximately 44% of HBO and WO students live independently (*op kamers*), while 56% live with their parents. This figure is presented as evidence that the system functions. But the figure is misleading. The stability of the independent category is not the result of Dutch students finding rooms. It is the result of international students filling the gap left by Dutch students who can no longer afford to leave home—and of the fraternity system concealing the true market price faced by non-members.
 
-### 5.1 The Collapse of Dutch Independent Living
+### 6.1 The Collapse of Dutch Independent Living
 
 Kences, the knowledge centre for student housing, has documented the trend with precision. Eight years ago, 52% of Dutch HBO and WO students lived on rooms. That percentage has steadily declined to **44% this year**. The number of students who say they want to live independently has also fallen, from 59% to 49% over the same period.
 
@@ -362,11 +466,11 @@ Kences sees that students are giving up hope of finding a room. Kences director 
 
 De Bie points out that it becomes much more difficult for students to build an extensive network if they live at home. This also limits their later chances on the labour market. A key reason for the increasing scarcity on the student housing market is the growing number of international students.
 
-### 5.2 The Collapse of Private Supply
+### 6.2 The Collapse of Private Supply
 
 The scarcity has increased significantly because total supply has decreased. Approximately 5,000 student rooms were added. But against this, the number of students living in private rental housing decreased by **17,800** in the past year. This shrinks the total number of available rooms. The supply in the 19 student cities is estimated at 322,400 student rooms—approximately **13,500 units lower** than in the 2023-24 academic year. The number of private student room sales continues to increase, and the peak of sales does not yet appear to have been reached. According to the Kadaster, both tightened regulations and the transfer tax, the introduction of purchase protection, the influence of parts of the Affordable Rent Act, and box 3 rules are reasons for sale.
 
-### 5.3 The Fraternity Gatekeeper and the Hospiteren Filter
+### 6.3 The Fraternity Gatekeeper and the Hospiteren Filter
 
 **This is the critical, underreported mechanism that distorts the statistics.** The *hospiteren* system is not a neutral allocation mechanism. It is a social filter that determines who has access to the affordable segment of the student housing market. DUWO, with over 33,000 rooms, has acknowledged that non-members of student associations have "far fewer chances" of obtaining a room. The SSH director has stated that the system "structurally excludes certain groups of students" and creates "increasing inequality".
 
@@ -378,7 +482,9 @@ A student who does not join a fraternity—whether by choice, exclusion, or inab
 
 The student who refuses to pay the compliance price—hazing, sexual ranking and coercion, participation in informal economies—is not making a lifestyle choice. They are accepting a **structural penalty**: exclusion from the affordable segment and forced entry into the expensive one. The statistics do not capture this penalty. They report an average that the non-participant never sees.
 
-### 5.4 The International Student as Statistical Prosthetic
+### 6.4 The International Student and the Hollowing of the Independent Category
+
+International students are not the cause of the statistical distortion. They are fellow casualties of the same doctrine. The doctrine excludes them from the network rent; the legislation and policy enforce the exclusion; and the statistics then report their presence in the independent category as if it were a measure of the system's success.
 
 Almost every international student is registered as *uitwonend* (living independently). Of the approximately 130,000 international students in the Netherlands, **94% are *uitwonend***. They must be. They have no parental home in the Netherlands to register at. The DUO system requires a registered address other than the parents' address to qualify for the higher grant; for international students, every address is other than their parents' address.
 
@@ -386,23 +492,23 @@ International students also face systematic exclusion from the fraternity networ
 
 This has a profound effect on the statistics. When CBS or Kences reports that "44% of students live independently," that figure includes international students who are *uitwonend* by definition and who pay a premium for their exclusion from the network. Remove them from the calculation, and the proportion of Dutch students living independently falls dramatically.
 
-### 5.5 The Wealthy Dutch Independent: Parental Property as a Hidden Subsidy
+### 6.5 The Wealthy Dutch Independent: Parental Property as a Hidden Subsidy
 
 The Dutch students who remain in the independent category are not a random sample. They are disproportionately those whose parents have the capital to purchase a home for them. Nibud has documented the growing dependence of students on parental support. In 2024, **57% of students received money from their parents**, with an average monthly contribution of **€225**. Students without a supplementary grant or with a low grant receive a higher direct parental contribution than students with a supplementary grant.
 
 Crucially, the Tweede Kamer has noted that uitwonende HBO and WO students who do not borrow and receive no parental contribution or supplementary grant come up an average of **€532 per month short** to cover the minimum costs of study and living. The loan system did not create independence. It created a system in which parental wealth became the decisive variable in whether a student could live independently at all.
 
-### 5.6 The Hidden Shortage: Students Who Have Given Up
+### 6.6 The Hidden Shortage: Students Who Have Given Up
 
 The most damning statistical distortion is the "hidden shortage." Thousands of students have stopped searching for housing altogether because they consider the market hopeless. Kences director Reijnder Jan Spits has confirmed this mechanism: when inventory hits zero, students drop out of sight. Conversely, if new rooms are constructed, latent demand instantly spikes as inactive searchers re-enter the market. Kences states: "We see in new construction projects that students who had given up hope are actively searching again".
 
 The National Student Union (LSVb) has estimated that there are currently around **23,000 student rooms too few**, and that 22,000 students could not find a room last autumn. The shortage could reach **63,000 by 2032**. A 2025 Kences monitor found that **43% of students living at home have stopped searching for rooms altogether because it is too expensive**. The hidden shortage is the statistical residue of a system that has failed so comprehensively that its victims no longer register as victims.
 
-### 5.7 The Composite Effect: What the Statistics Actually Show
+### 6.7 The Composite Effect: What the Statistics Actually Show
 
 When these distortions are combined, the picture is clear. The statistic "44% of students live independently" does not mean that 44% of Dutch students have achieved independence through a functioning system. It means that:
 
-- A large and growing proportion of the independent category consists of international students who are *uitwonend* by necessity and who pay a premium for their exclusion from the network.
+- A large and growing proportion of the independent category consists of international students who are *uitwonend* by necessity and who pay a premium for their exclusion from the network. They are not the problem; their inclusion in the category is the symptom.
 - A significant proportion of the remaining Dutch independent students are supported by parental wealth, often through property ownership that converts housing into an income stream.
 - A substantial portion of the affordable housing supply is allocated through fraternity networks that are closed to non-members and gated by social compliance, depressing the reported "average" rent and concealing the true market price faced by outsiders.
 - A smaller and shrinking proportion are genuinely independent Dutch students without parental support, and these students face structural deficits that force them into debt, precarious work, or both—while paying the non-network price.
@@ -414,7 +520,7 @@ The system does not produce independent students. It produces a statistical cate
 
 ---
 
-## 6. The Childcare Benefits Scandal: Institutional Racism as Policy
+## 7. The Childcare Benefits Scandal: Institutional Racism as Policy
 
 The most documented evidence of enforced moral hierarchy is the *toeslagenschandaal*—the childcare benefits scandal. On 25 May 2022, the Dutch government publicly admitted for the first time that **institutional racism** in part of the Dutch Tax and Customs Administration was the root cause of the scandal. This admission followed the resignation of the Dutch government in 2021.
 
@@ -432,7 +538,7 @@ The mechanism of exclusion operates across generations. Excluding the parent exc
 
 ---
 
-## 7. The DUO Algorithm: Disciplining Students by Background
+## 8. The DUO Algorithm: Disciplining Students by Background
 
 The enforcement mechanism extends to education. The Dutch Education Executive Agency (DUO) used an algorithm between 2012 and 2023 to check whether students were abusing the grant for students living away from home. The Dutch Data Protection Authority concluded that this approach was **discriminatory and therefore unlawful**.
 
@@ -446,7 +552,7 @@ This is the mechanism in operation. The state identifies a population—students
 
 ---
 
-## 8. The Welfare Fraud Act: Criminalising the Powerless
+## 9. The Welfare Fraud Act: Criminalising the Powerless
 
 While the state deploys algorithms to target racialised populations, it simultaneously enforces a punitive regime against welfare recipients. Hertogh (2024) argues that the Dutch Welfare Fraud Act of 2012 significantly intensified sanctions for "fraudulent" behaviour of welfare recipients. This Act introduced fines of up to **€50,000**, and made it possible for fraudsters to be entirely excluded from certain welfare services. Behaviours such as failing to disclose relevant information or refusing certain job offers were explicitly classified as prohibited.
 
@@ -460,7 +566,7 @@ This is the double standard in operation. The state uses algorithms that disprop
 
 ---
 
-## 9. Moral Superiority as Enforcement: The 7 Vinkjes and Calvinist Chosenness
+## 10. Moral Superiority as Enforcement: The 7 Vinkjes and Calvinist Chosenness
 
 The enforcement mechanism is not only legal and administrative. It is also cultural and moral. The Dutch self-image—constructed over centuries—positions the Netherlands as moderate, rational, and civilised. This self-image is rooted in Calvinism, which shaped the Dutch Republic and provided a framework in which Protestants saw themselves as the **chosen people**.
 
@@ -468,15 +574,17 @@ The contemporary expression of this moral hierarchy is the **"7 vinkjes"**—the
 
 Luyendijk's list of check marks is incomplete. His book fails to mention several privileges that significantly affect a person's opportunities and position. For instance: Being cisgender, being able-bodied and without chronic illnesses, having no discernable religion. People with seven check marks who are transgender, use a wheelchair, can't work for more than five hours a day or always wear a yarmulke will still have fewer opportunities to "play boss".
 
-The 7 vinkjes are not merely a description of privilege. They are the operating system of the moral hierarchy. Those who possess all seven can afford to be honest because their position is secured by social capital. Those who lack them are systematically disadvantaged and, when they attempt to navigate the system, are met with suspicion. The student in Scenario C likely possesses most or all of the 7 vinkjes. The student in Scenario B likely does not.
+The 7 vinkjes are not a causal mechanism. They are a heuristic — a list of markers that tend to co-occur among those who occupy positions of power. The list's function is to make visible a pattern of privilege that is otherwise difficult to see. It is not a measured variable, and it does not explain how the privilege is reproduced. The mechanisms that reproduce the privilege are the ones this paper documents elsewhere: the compliance continuum, the fraternity gatekeeper, the kruiwagen network, the welfare fraud legislation, the DUO algorithm. The 7 vinkjes name the pattern. The doctrine produces it. The legislation and policy enforce it.
 
-The moral hierarchy converts structural exclusion into personal failure. The excluded student is not told that the system was designed to exclude them; they are told that they did not work hard enough, did not plan well enough, did not choose the right programme. The moral narrative is the final instrument of exclusion: it makes the excluded complicit in their own exclusion by convincing them it was their choice.
+The 7 vinkjes are not merely a description of privilege. They are the operating system of the moral hierarchy. Those who possess the markers Luyendijk identifies are disproportionately likely to occupy positions where their social capital secures their standing. Those who lack the markers are disproportionately likely to face the structural disadvantages the paper documents. The student in Scenario C likely possesses most or all of the 7 vinkjes. The student in Scenario B likely does not.
+
+The moral hierarchy converts structural exclusion into personal failure. The excluded student is not told that the system is designed to exclude them — designed through legislation and policy brought forth from doctrine. They are told that they did not work hard enough, did not plan well enough, did not choose the right programme. The moral narrative is the final instrument of exclusion: it makes the excluded complicit in their own exclusion by convincing them it was their choice.
 
 The same logic applies to the fraternity gatekeeper. The student who is excluded from the network rent is not told that the network is gated by compliance. They are told that they simply did not find a room. The compliance price—the hazing, the ranking, the informal economies—is not presented as a price. It is presented as "student life," as "tradition," as "belonging." The student who declines to pay it is not told that they have declined to pay it. They are told that they failed to secure housing.
 
 ---
 
-## 10. Kruiwagen Culture: The Labour Market as a Closed Network
+## 11. Kruiwagen Culture: The Labour Market as a Closed Network
 
 The moral hierarchy is reinforced by the **kruiwagen** culture—the Dutch term for getting a job or privilege through connections. Dutch labour market experts keep talking about a "matching problem." But the real problem is one rarely named: **Kruiwagen culture**. Jobs arranged through closed circles, quiet referrals, and opportunities handed "onder het tafel" (under the table). Call it what it is: **NEPOTISM dressed up as normal hiring**.
 
@@ -484,15 +592,15 @@ The *kruiwagen* is a wheelbarrow, but in its pejorative sense it refers to someo
 
 For many—women of colour, African professionals, internationals—the barrier isn't skill; it's access. You're filtered out before a human even looks at your CV. HR systems reward familiarity, not capability. Companies shout about staff shortages while ignoring qualified candidates who don't fit the "inner circle" of "7 vinkjes" who might be upstaged by internationals professionals who might have better qualifications. Insiders move job to job, while others are told there's a "skills mismatch." And layered on top is the "7 vinkjes" effect—the well-documented Dutch privilege template. **If you match all seven, doors open. If you don't, the system quietly closes ranks**.
 
-The combination of the *kruiwagen* and the 7 vinkjes produces a system where the established class can afford to be honest because the system is designed to protect them, while the working class is left to compete for scraps. The student in Scenario C inherits the *kruiwagen*. The student in Scenario B must build it from nothing, and when they fail, they are blamed for the failure.
+The combination of the *kruiwagen* and the 7 vinkjes produces a system where the established class can afford to be honest because the system is designed — through legislation and policy brought forth from doctrine — to protect them, while the working class is left to compete for scraps. The student in Scenario C inherits the *kruiwagen*. The student in Scenario B must build it from nothing, and when they fail, they are blamed for the failure.
 
 The exclusion is complete: the student without family capital is excluded from housing (by rent and the fraternity gatekeeper), from stability (by deficit), from honest opportunity (by closed networks). Each instrument reinforces the others.
 
 ---
 
-## 11. Discussion: The Mechanism Is Not Accidental
+## 12. Discussion: The Mechanism Is Designed — Through Doctrine, Legislation, and Policy
 
-The evidence presented in this paper supports the proposition that the mechanism is not accidental—it is enforced. The enforcement operates through:
+The evidence presented in this paper supports the proposition that the mechanism is not accidental—it is designed. The design operates through:
 
 1. **Grant structure** that assumes a parental contribution the student does not have, producing a structural deficit of €723–€941 per month.
 2. **Housing market regulation** that requires guarantors and deposits, excluding students without family capital before they even reach the rent.
@@ -504,7 +612,7 @@ The evidence presented in this paper supports the proposition that the mechanism
 
 These instruments are not separate. They are interconnected. The grant structure creates the deficit. The housing market and fraternity gatekeeper convert the deficit into exclusion while concealing it in the statistics. The algorithmic profiling identifies who is suspect. The welfare legislation determines who is punished. The moral hierarchy justifies the differential treatment. The *kruiwagen* ensures that those who are not suspect are rewarded with jobs and security.
 
-**It is the system functioning as designed to exclude those without family capital or network access.**
+**It is the system functioning as designed — through legislation and policy brought forth from doctrine — to exclude those without family capital or network access.**
 
 The self-referential dimension of this analysis is that it emerged from a first-person account of navigating this system. The account described a student who received €1,000 from DUO, paid €900 in rent—a non-network price—and was left with €100 for food and all other expenses. But the €100 was not the full measure of the deficit. Measured against the Nibud minimum budget of €1,723 per month (excluding tuition), the student faced a **monthly deficit of €723**. The student bridged this gap through loans and work—because the formal system provided no path. When the student refused to participate in the only opportunities available, they were left without a degree and without a path.
 
@@ -518,7 +626,7 @@ The statistics that purport to measure the system's functioning are themselves i
 
 ---
 
-## 12. Conclusion
+## 13. Conclusion
 
 The Dutch state operates a system of enforcement that is not neutral. It targets certain populations for scrutiny while protecting others. It criminalises the administrative errors of the poor while the structural fraud of institutions—empty classrooms funded by tax money, discriminatory algorithms defended as risk management—remains largely uninvestigated. It maintains a moral hierarchy that positions the established class as honest and law-abiding while casting outsiders as suspect. And it maintains a housing market segmented by fraternity networks that grant affordable access to insiders who pay the compliance price—hazing, sexual ranking and coercion, participation in informal economies—while forcing outsiders into the highest-price segment, all while reporting an "average" rent that no non-member ever sees.
 
@@ -526,7 +634,7 @@ The evidence is not speculative. It is documented in parliamentary inquiries, co
 
 The three student scenarios illustrate the mechanism in concrete terms. The student living with lower-class parents has a positive budget and low risk, but limited mobility. The student living independently on DUO with €900 rent faces a monthly deficit of €723 against the Nibud minimum budget, and no mobility at all—and their €900 rent is not the average but the non-network price. The student living in a parent-purchased home with rental income has abundant disposable income, no risk, and high mobility—and extracts that income from the rents paid by the students in the second scenario.
 
-**There is no upwards mobility for the student without parental support (a home) and without fraternity network access. It is the system functioning as designed to exclude those without family capital or social compliance.**
+**There is no upwards mobility for the student without parental support (a home) and without fraternity network access. It is the system functioning as designed — through legislation and policy brought forth from doctrine — to exclude those without family capital or social compliance.**
 
 This is the central finding. The system is not designed to enable transcendence of class position; it is designed to reproduce it. The student who lacks a home and lacks network access is trapped in a cycle of survival, unable to save, unable to invest, unable to build the capital that would allow them to escape. The student who has a home is on an escalator, accumulating assets and connections that compound over time. The gap between them is not a gap in effort or intelligence; it is a gap in structure. And that structure is enforced—economically, legally, culturally, and statistically.
 
@@ -630,6 +738,7 @@ DUB. (2026). *International students don't always feel at home in the Netherland
 
 **7 Vinkjes and Privilege**
 
+Luyendijk, J. (2022). *De zeven vinkjes: Hoe mannen zoals ik de baas spelen*. Pluim.
 
 
 
